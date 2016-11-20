@@ -1,0 +1,9 @@
+{
+    "path" : "~/Kaggle/HousePrices",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
